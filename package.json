@@ -2,7 +2,7 @@
   "name": "lucera-assessment",
   "version": "1.0.0",
   "description": "Front end assessment for web development role at Lucera",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +10,7 @@
   "license": "ISC",
   "keywords": [],
   "devDependencies": {
+    "webpack": "^5.38.1",
     "webpack-cli": "^4.9.2"
-  },
-  "dependencies": {
-    "lodash": "^4.17.21"
   }
 }
