@@ -39,7 +39,7 @@
     color: #fff;
     position: absolute;
     bottom: 0px;
-    font-family: roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 24px;
     line-height: 30px;
     display: flex;
@@ -110,21 +110,21 @@
     color: #f00;
     font-weight: 700;
     margin-bottom: 0px;
-    font-family: roboto;
+    font-family: 'Roboto', sans-serif;
     line-height: 28px;
 }
 
 .custody_design .content_heading span {
     font-size: 16px;
     font-weight: 600;
-    font-family: roboto;
+    font-family: 'Roboto', sans-serif;
 }
 
 .custody_design .card-body p {
     padding-top: 30px;
     font-size: 16px;
     line-height: 24px;
-    font-family: roboto;
+    font-family: 'Roboto', sans-serif;
 }
 
 .custody_design .collapse ul {
@@ -217,7 +217,7 @@
         color: #fff;
         font-size: 24px;
         line-height: 30px;
-        font-family: roboto;
+        font-family: 'Roboto', sans-serif;
         display: flex;
         align-items: center;
         height: 100%;
