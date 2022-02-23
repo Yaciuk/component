@@ -41,10 +41,13 @@
     bottom: 0px;
     font-family: 'Roboto', sans-serif;
     font-size: 24px;
+    font-weight: 500;
     line-height: 30px;
     display: flex;
     padding: 10px 10px;
     min-height: 80px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .custody_design li.nav-item .tab_content h2 {
@@ -108,7 +111,7 @@
 .custody_design .content_heading h2 {
     font-size: 24px;
     color: #f00;
-    font-weight: 700;
+    font-weight: 500;
     margin-bottom: 0px;
     font-family: 'Roboto', sans-serif;
     line-height: 28px;
@@ -116,7 +119,7 @@
 
 .custody_design .content_heading span {
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -125,16 +128,18 @@
     font-size: 16px;
     line-height: 24px;
     font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
 
 .custody_design .collapse ul {
     list-style: none;
+    font-weight: 300;
 }
 
 .custody_design .collapse ul li::before {
     content: "\2022";
     color: red;
-    font-weight: bold;
+    font-weight: 500;
     display: inline-block;
     width: 1em;
     margin-left: -1em;
