@@ -176,35 +176,35 @@
     }
     /***************/
     .custody_design div#pane-A .card-header {
-        background: url(../imgs/img1desktopx2.png)no-repeat;
+        background: url(../imgs/img1mobilex2.png)no-repeat;
         background-position: center;
         width: 100%;
         height: 100px;
         background-size: cover;
     }
     .custody_design div#pane-B .card-header {
-        background: url(../imgs/img1desktopx2.png)no-repeat;
+        background: url(../imgs/img2mobilex2.png)no-repeat;
         background-position: center;
         width: 100%;
         height: 100px;
         background-size: cover;
     }
     .custody_design div#pane-C .card-header {
-        background: url(../imgs/img1desktopx2.png)no-repeat;
+        background: url(../imgs/img3mobilex2.png)no-repeat;
         background-position: center;
         width: 100%;
         height: 100px;
         background-size: cover;
     }
     .custody_design div#pane-D .card-header {
-        background: url(../imgs/img1desktopx2.png)no-repeat;
+        background: url(../imgs/img4mobilex2.png)no-repeat;
         background-position: center;
         width: 100%;
         background-size: cover;
         height: 100px;
     }
     .custody_design div#pane-E .card-header {
-        background: url(../imgs/img1desktopx2.png)no-repeat;
+        background: url(../imgs/img5mobilex2.png)no-repeat;
         background-position: center;
         width: 100%;
         background-size: cover;
